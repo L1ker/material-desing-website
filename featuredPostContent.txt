@@ -1,0 +1,38 @@
+const featuredPosts = [
+  {
+    title: "Supervised Learning",
+    date: "Nov 12",
+    description:
+      "The most widespread type of Neural Network today. It learns through clearly labelled data.",
+    image: "https://source.unsplash.com/random",
+    imageText: "Image Text",
+    url: "/supervised"
+  },
+  {
+    title: "Unsupervised Learning",
+    date: "Nov 11",
+    description:
+      "A type of Neural Network specialised on finding similarities in data sets.",
+    image: "https://source.unsplash.com/random",
+    imageText: "Image Text",
+    url: "/unsupervised"
+  },
+  {
+    title: "Semi-Supervised Learning",
+    date: "Nov 11",
+    description:
+      "As the name suggests - a mixture used when no cleanly labelled data sets are available.",
+    image: "https://source.unsplash.com/random",
+    imageText: "Image Text",
+    url: "/semisupervised"
+  },
+  {
+    title: "Reinforcement Learning",
+    date: "Nov 11",
+    description:
+      "Learning like a child does - getting rewarded for good actions - punished for bad ones.",
+    image: "https://source.unsplash.com/random",
+    imageText: "Image Text",
+    url: "/reinforcement"
+  }
+];
